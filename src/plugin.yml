@@ -1,0 +1,9 @@
+name: aAwesomeCases
+main: Brin\aAC_Main
+version: 1.3
+api: [3.0.0]
+author: Brin
+
+commands:
+  aac:
+    default: op

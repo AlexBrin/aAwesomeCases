@@ -1,0 +1,50 @@
+--- 
+itemcase: # case name for command. Must be the same with "name" without color codes and lowercase
+  name: '§dItem§bCase' # case name for chest item
+  item: # chest item
+    id: 54
+    damage: 0
+    enchant: 1
+  blocks: # blocks
+    wall:
+      id: 18
+      damage: 0
+    floor:
+      id: 5
+      damage: 0
+  items:
+    - id: 2
+      damage: 0
+      count: 1
+      name: '§eСупер земелька' # custom name for item
+      enchants:
+        - id: 1
+          level: 1
+        - id: 2
+          level: 1
+        - id: 3
+          level: 1
+        - id: 4
+          level: 1
+        - id: 5
+          level: 1
+        - id: 6
+          level: 1
+    - id: 280
+      damage: 0
+      count: 1
+      name: '§eСупер палка'
+      enchants:
+        - id: 1
+          level: 1
+        - id: 2
+          level: 1
+        - id: 3
+          level: 1
+        - id: 4
+          level: 1
+        - id: 5
+          level: 1
+        - id: 6
+          level: 1
+...
